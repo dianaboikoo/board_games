@@ -1,0 +1,94 @@
+[
+  {
+    "id": "1",
+    "image": "https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,w_464,h_464/4441d965-8ae3-436f-aa3f-f8f26fa21dcf",
+    "name": "Partners Duo",
+    "location": "A5",
+    "genre": "Racing",
+    "members": "2 pr.",
+    "time": "15-45 min"
+    
+
+  },
+  {
+    "id": "2",
+    "image": "https://m.media-amazon.com/images/I/81Ja0751puL._AC_UF894,1000_QL80_.jpg",
+    "name": "Monopoly",
+    "location": "D2",
+    "genre": "Strategy",
+    "members": "2-8 pr.",
+    "time": "60-180 min"
+  },
+  {
+    "id": "3",
+    "image": "https://spilforsyningen.dk/cdn/shop/products/tickettorideusaforside_8ed809df-2628-4703-9ddf-02e47e3d270f.png?v=1663573585&width=582",
+    "name": "Ticket to Ride",
+    "location": "C1",
+    "genre": "Building",
+    "members": "2-5 pr.",
+    "time": "30-60 min"
+  },
+  {
+    "id": "4",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6LKH_R1IixhL3hHZgc_drigLUuk-98AZo8A&s",
+    "name": "Cascadia",
+    "location": "B1",
+    "genre": "Building",
+    "members": "1-4 pr.",
+    "time": "30-45 min"
+  },
+  {
+    "id": "5",
+    "image": "https://m.media-amazon.com/images/I/619-hBav4XL.jpg",
+    "name": "Sorry!",
+    "location": "C5",
+    "genre": "Racing",
+    "members": "2-4 pr.",
+    "time": "20-60 min"
+  },
+  {
+    "id": "6",
+    "image": "https://m.media-amazon.com/images/I/71J3mGLfqEL.jpg",
+    "name": "HEAT",
+    "location": "C2",
+    "genre": "Racing",
+    "members": "1-6 pr.",
+    "time": "30-60 min"
+  },
+    {
+    "id": "7",
+    "image": "https://target.scene7.com/is/image/Target/GUEST_4a6c6a4b-4279-4520-9c7d-2e5036b525a4?wid=488&hei=488&fmt=pjpeg",
+    "name": "Catan",
+    "location": "D1",
+    "genre": "Strategy",
+    "members": "3-4 pr.",
+    "time": "60-120 min"
+  },
+    {
+    "id": "8",
+    "image": "https://m.media-amazon.com/images/I/61le3F8zYOL._AC_UF894,1000_QL80_.jpg",
+    "name": "Ark Nova",
+    "location": "F4",
+    "genre": "Strategy",
+    "members": "1-4 pr.",
+    "time": "90-150 min"
+  },
+    {
+    "id": "9",
+    "image": "https://website.cdn77.luckyduckgames.com/shop-products/April2021/Diuna_3Dbox_PL_PNG_(RGB).png",
+    "name": "Dune",
+    "location": "F4",
+    "genre": "Building",
+    "members": "2-4 pr.",
+    "time": "20-60 min"
+  },
+    {
+    "id": "10",
+    "image": "https://cdn.zatu.com/wp-content/uploads/2021/11/17082541/The-Crew.jpg",
+    "name": "The Crew",
+    "location": "A4",
+    "genre": "Strategic",
+    "members": "2-5 pr.",
+    "time": "20 min"
+  }
+]
