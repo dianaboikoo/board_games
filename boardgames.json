@@ -1,94 +1,92 @@
-[
-  {
-    "id": "1",
-    "image": "https://digitalassets.sallinggroup.com/image/upload/e_trim/b_white,c_pad,e_sharpen:80,f_auto,q_auto,w_464,h_464/4441d965-8ae3-436f-aa3f-f8f26fa21dcf",
-    "name": "Partners Duo",
-    "location": "A5",
-    "genre": "Racing",
-    "members": "2 pr.",
-    "time": "15-45 min"
-    
-
-  },
-  {
-    "id": "2",
-    "image": "https://m.media-amazon.com/images/I/81Ja0751puL._AC_UF894,1000_QL80_.jpg",
-    "name": "Monopoly",
-    "location": "D2",
-    "genre": "Strategy",
-    "members": "2-8 pr.",
-    "time": "60-180 min"
-  },
-  {
-    "id": "3",
-    "image": "https://spilforsyningen.dk/cdn/shop/products/tickettorideusaforside_8ed809df-2628-4703-9ddf-02e47e3d270f.png?v=1663573585&width=582",
-    "name": "Ticket to Ride",
-    "location": "C1",
-    "genre": "Building",
-    "members": "2-5 pr.",
-    "time": "30-60 min"
-  },
-  {
-    "id": "4",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6LKH_R1IixhL3hHZgc_drigLUuk-98AZo8A&s",
-    "name": "Cascadia",
-    "location": "B1",
-    "genre": "Building",
-    "members": "1-4 pr.",
-    "time": "30-45 min"
-  },
-  {
-    "id": "5",
-    "image": "https://m.media-amazon.com/images/I/619-hBav4XL.jpg",
-    "name": "Sorry!",
-    "location": "C5",
-    "genre": "Racing",
-    "members": "2-4 pr.",
-    "time": "20-60 min"
-  },
-  {
-    "id": "6",
-    "image": "https://m.media-amazon.com/images/I/71J3mGLfqEL.jpg",
-    "name": "HEAT",
-    "location": "C2",
-    "genre": "Racing",
-    "members": "1-6 pr.",
-    "time": "30-60 min"
-  },
-    {
-    "id": "7",
-    "image": "https://target.scene7.com/is/image/Target/GUEST_4a6c6a4b-4279-4520-9c7d-2e5036b525a4?wid=488&hei=488&fmt=pjpeg",
-    "name": "Catan",
-    "location": "D1",
-    "genre": "Strategy",
-    "members": "3-4 pr.",
-    "time": "60-120 min"
-  },
-    {
-    "id": "8",
-    "image": "https://m.media-amazon.com/images/I/61le3F8zYOL._AC_UF894,1000_QL80_.jpg",
-    "name": "Ark Nova",
-    "location": "F4",
-    "genre": "Strategy",
-    "members": "1-4 pr.",
-    "time": "90-150 min"
-  },
-    {
-    "id": "9",
-    "image": "https://website.cdn77.luckyduckgames.com/shop-products/April2021/Diuna_3Dbox_PL_PNG_(RGB).png",
-    "name": "Dune",
-    "location": "F4",
-    "genre": "Building",
-    "members": "2-4 pr.",
-    "time": "20-60 min"
-  },
-    {
-    "id": "10",
-    "image": "https://cdn.zatu.com/wp-content/uploads/2021/11/17082541/The-Crew.jpg",
-    "name": "The Crew",
-    "location": "A4",
-    "genre": "Strategic",
-    "members": "2-5 pr.",
-    "time": "20 min"
+{
+  "books": {
+    "M1Abcdefg123": {
+      "title": "Beautiful Sunset",
+      "author": "John Doe",
+      "numberOfPages": 300,
+      "genre": "Fiction",
+      "description": "In 'Beautiful Sunset', John Doe weaves a tale of love and redemption set against the backdrop of breathtaking landscapes. The protagonist embarks on a journey of self-discovery after a life-altering event. Along the way, they encounter unforgettable characters who challenge their perceptions of happiness and fulfillment. This heartfelt story reminds us that sometimes, the most beautiful moments in life come from the simplest experiences.",
+      "image": "https://images.unsplash.com/photo-1566241832378-917a0f30db2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+    },
+    "M1Xyz987pqr": {
+      "title": "Exploring the City",
+      "author": "Jane Smith",
+      "numberOfPages": 250,
+      "genre": "Travel",
+      "description": "Join Jane Smith as she takes readers on a captivating journey through the streets of Aarhus in 'Exploring the City'. This travelogue is filled with vivid descriptions and personal anecdotes that bring each location to life. From hidden cafés to historic landmarks, readers will discover the charm and vibrancy of urban exploration. Smith's engaging writing style makes you feel as though you are right there alongside her, experiencing the adventure firsthand.",
+      "image": "https://images.unsplash.com/photo-1559070169-a3077159ee16?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+    },
+    "M2Def456stu": {
+      "title": "Delicious Food",
+      "author": "Chef Gordon",
+      "numberOfPages": 180,
+      "genre": "Cookbook",
+      "description": "In 'Delicious Food', Chef Gordon shares a collection of mouth-watering recipes inspired by his travels around the world. Each recipe is accompanied by beautiful photographs and personal stories that highlight the culture behind the dish. This cookbook not only teaches you how to prepare exquisite meals but also invites you to savor the experience of cooking and sharing food with loved ones. Perfect for both novice and experienced cooks, this book is a delightful addition to any kitchen.",
+      "image": "https://images.unsplash.com/photo-1548940740-204726a19be3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+    },
+    "M3Ghi789vwx": {
+      "title": "City Center Adventures",
+      "author": "Emily Brown",
+      "numberOfPages": 320,
+      "genre": "Fiction",
+      "description": "In 'City Center Adventures', Emily Brown takes readers on a thrilling journey through the bustling streets of Aarhus. The protagonist, an intrepid journalist, finds themselves caught in a web of mystery and intrigue as they uncover secrets hidden in plain sight. Each chapter is packed with suspense and unexpected twists that keep you on the edge of your seat. Brown's masterful storytelling and rich character development make this a must-read for fans of urban fiction.",
+      "image": "https://images.unsplash.com/photo-1566241832378-917a0f30db2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+    },
+    "M4Jkl012abc": {
+      "title": "Mysteries of the Forest",
+      "author": "Alice Green",
+      "numberOfPages": 400,
+      "genre": "Fantasy",
+      "description": "Alice Green's 'Mysteries of the Forest' invites readers into a magical world filled with enchanting creatures and hidden wonders. When a young girl discovers a portal in her backyard, she embarks on an adventure that will change her life forever. As she navigates this new realm, she learns about bravery, friendship, and the importance of protecting nature. This beautifully illustrated book captivates both children and adults with its rich storytelling and vivid imagery.",
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+    },
+    "M5Mno456xyz": {
+      "title": "The Great Escape",
+      "author": "Michael Roberts",
+      "numberOfPages": 290,
+      "genre": "Thriller",
+      "description": "In 'The Great Escape', Michael Roberts delivers a gripping tale of survival and cunning. When a group of friends gets trapped in an abandoned facility, they must use their wits to outsmart their captors and find a way to freedom. Tension mounts as secrets are revealed, testing their trust in one another. This fast-paced thriller is filled with unexpected twists that will leave readers breathless.",
+      "image": "https://images.unsplash.com/photo-1484799471965-0b1241cde6ee?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+    },
+    "M6Pqr789stu": {
+      "title": "Whispers in the Dark",
+      "author": "Sophia Turner",
+      "numberOfPages": 310,
+      "genre": "Horror",
+      "description": "'Whispers in the Dark' by Sophia Turner explores the fine line between fear and reality. When a family moves into an old mansion, they begin to experience unsettling occurrences that challenge their understanding of the supernatural. As they delve deeper into the house's history, they uncover a dark past that threatens their lives. This chilling novel will keep readers on edge as they uncover the truth behind the whispers.",
+      "image": "https://images.unsplash.com/photo-1544079258-37e7769eb83b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+    },
+    "M7Stuv123ghi": {
+      "title": "The Art of Happiness",
+      "author": "Liam Johnson",
+      "numberOfPages": 250,
+      "genre": "Self-Help",
+      "description": "'The Art of Happiness' by Liam Johnson offers insightful perspectives on finding joy in everyday life. Drawing from personal experiences and research in psychology, Johnson provides practical strategies to cultivate positivity. Each chapter includes exercises and reflections that encourage readers to embrace gratitude and mindfulness. This uplifting guide is perfect for anyone seeking to enhance their emotional well-being.",
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+    },
+    "M8Vwx456abc": {
+      "title": "Journey Through Time",
+      "author": "Olivia Harris",
+      "numberOfPages": 360,
+      "genre": "Historical Fiction",
+      "description": "'Journey Through Time' transports readers to pivotal moments in history through the eyes of its characters. Olivia Harris skillfully intertwines personal stories with significant historical events, bringing the past to life. Each chapter reveals the struggles and triumphs of those who lived through these eras, making history relatable and engaging. This captivating novel will resonate with anyone fascinated by the human experience.",
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+    },
+    "M9Yz123abc": {
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "numberOfPages": 200,
+      "genre": "Classic",
+      "description": "'The Secret Garden' is a timeless classic that tells the story of Mary Lennox, a lonely girl who discovers a hidden garden. As she tends to the garden, Mary learns about friendship, love, and the healing power of nature. Frances Hodgson Burnett's lyrical prose and rich character development have captivated readers for generations. This enchanting tale encourages readers to find beauty in the world around them.",
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+    },
+    "M10Zab123def": {
+      "title": "Digital Nomad",
+      "author": "Emily Clark",
+      "numberOfPages": 280,
+      "genre": "Non-Fiction",
+      "description": "'Digital Nomad' by Emily Clark explores the life of modern wanderers who work while traveling. Through personal anecdotes and interviews, Clark shares practical tips for balancing work and adventure. This insightful guide delves into the challenges and rewards of a location-independent lifestyle. Whether you dream of traveling the world or want to make your work more flexible, this book offers inspiration and guidance.",
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+    }
   }
-]
+}
